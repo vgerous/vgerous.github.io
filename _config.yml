@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "China-Shanghai"
-title                    : "Wenqian Xing / Mr."
+title                    : "Wenqian Xing / Personal Academic Website"
 title_separator          : "-"
 name                     : &name "Wenqian Xing"
-description              : &description "personal description"
+description              : &description "Hi there! welcome to my website! Hope this can help you to know me well! Enjoy!"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
